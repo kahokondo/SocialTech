@@ -810,7 +810,7 @@ footer {
   .fivegoals-image-right, .fivegoals-image-left{
     align-self: center;
   }
-}
+
 /* プロダクトページ */
 
 .product-main-inner {
@@ -961,4 +961,5 @@ footer {
 .product-section-right .product-read {
   order: 2;
   width: 100%;
+}
 }
